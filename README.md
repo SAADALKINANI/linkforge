@@ -35,7 +35,7 @@ lp.predict_tails("Atlas Co", "sources_from", top_n=5)
 ## Install
 
 ```bash
-git clone https://github.com/<your-user>/linkforge.git
+git clone https://github.com/SAADALKINANI/linkforge.git
 cd linkforge
 pip install -e ".[dev]"
 pytest
